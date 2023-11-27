@@ -6,5 +6,5 @@
   <a href="https://github.com/karthikgk97">GitHub</a>
 </p>
 <p align="center">
-  ✉️<a href="mailto:karthik.gk97@gmail.com">karthik.gk97@gmail.com</a> | 📞 480-692-0848
+  <a href="mailto:karthik.gk97@gmail.com">karthik.gk97@gmail.com</a> | 480-692-0848
 </p>
