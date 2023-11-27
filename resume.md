@@ -9,8 +9,7 @@ header-includes:
 ```{=latex}
 \begin{center}
 ```
-
-  <h3>KARTHIK GANESAN</h3>
+# KARTHIK GANESAN
 Motivated, cross-functional developer seeking full-time opportunity.   
   [LinkedIn](https://www.linkedin.com/in/karthik-ganesan-541488148/) |
   [Personal Website](https://www.karthikganesan.dev) |
@@ -28,20 +27,18 @@ Motivated, cross-functional developer seeking full-time opportunity.
 <i>Anna University, India  </i> \hfill <i> GPA: 8.03 / 10 </i> </span>
 
 ## Skills:
-**Technical**: Python, Rust, C++, SQL, Terraform, HTML, CSS, React, Bash, Matlab.  
-**Framework and Tools**: Langchain, Streamlit, Docker, Git, ROS, Blender, OpenCV, Qt Designer, Selenium, Power BI, Nvidia Omniverse  
+**Programming**: Python, Rust, C++, SQL, Terraform, HTML, CSS, React, Bash, Matlab.  
+**Framework and Tools**: Langchain, Streamlit, Docker, Git, ROS, Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse  
 **Cloud Platforms**: GCP, AWS.  
-**Proficiencies**: Data Structures, Algorithms, CI/CD, Robotics, AI/ML, Simulation, LLM.
 
 ## Experience:
 **Developer** | Tyson Foods, Springdale, AR | Nov '21 - Present
 <ul>
-- Leading Tyson's Language Model (LLM) initiatives, developed a streamlined chat interface using LLM and Streamlit. Optimizes SQL query writing and execution with GCP Big Query client. Deployed securely on GCP's Cloud Run, GCR, load balancer, and Identity-Aware Proxy, emphasizing structured data interaction through natural language queries.
-- Engineered an asynchronous Python library for Tyson, enabling the efficient reading and processing of BigQuery data. This library also facilitates the creation of embeddings and stores them in ChromaDB/QdrantDB on GCP CloudRun, with mounted GCP Filestore for high-speed I/O.
-- Established a simulation-based workflow at Tyson for rapid prototyping of LLM applications using Nvidia Omniverse, ROS2, MoveIt2, AWS, and Reinforcement Learning. Conducted feasibility testing of digital twin and implemented RL in simulation.
--  Developed ML models with AWS Sagemaker, MxNET, PyTorch & TensorFlow, evaluating synthetic image detection performance. Achieved a 50% reduction in training time through techniques like Transfer Learning Twice and Distributed Training, achieving an accuracy of approximately 70% across 5 classes, with a max class accuracy of 97%.
-- Architected and developed a cloud-based pipeline using AWS and Blender-Python for synthetic data generation. Leveraged AWS Batch, Lambda, S3, ECR, Python, Blender, Docker, Terraform, and GitLab CI for streamlined development.
-- Crafted comprehensive "Press Release and Frequently Asked Question" (PRFAQ) documents, encompassing project requirements, high-level system design diagrams, milestones, and Return on Investments (ROIs).
+- Currently leading Tyson's LLM initiatives, successfully developing a Streamlit-based chat interface for processing Structured and Unstructured data through Natural Language queries. Deployed the chatbot securely on GCP using CloudRun, Load Balancer, and IAP for authentication.
+- Developed an asynchronous Python library to facilitate the rapid prototyping of LLM applications across Tyson. This library efficiently reads and processes BigQuery data, enables the creation of embeddings, and stores them in ChromaDB/QdrantDB on GCP CloudRun. Additionally, leveraged mounted GCP Filestore for robustness and high-speed I/O.
+- Established a simulation-based workflow at Tyson using Nvidia Omniverse, ROS2, MoveIt2, AWS, and Reinforcement Learning. Conducted feasibility testing of digital twin and implemented RL in simulation.
+- Developed ML models with AWS Sagemaker evaluating synthetic image detection performance. Achieved a 50% reduction in training time through techniques like Transfer Learning Twice and Distributed Training, achieving an accuracy of approximately 70% across 5 classes, with a max class accuracy of 97%.
+- Architected and developed a cloud-based pipeline for synthetic data generation. Leveraged AWS, Python, Blender, Docker, Terraform, and CI/CD for streamlined development.
 </ul>
 
 **Software Application Engineer** | Duke University, Durham, NC | Jan’ 21 – Oct’ 21
@@ -57,4 +54,10 @@ Motivated, cross-functional developer seeking full-time opportunity.
 - Engineered an autonomous vehicular robot and its middleware using ROS and C++ for real-world operation.
 - Integrated the robot into Gazebo simulation environment using URDF, concurrently developing a user-friendly GUI with Qt Designer and Python to access camera sensor data.
 - Applied YOLOv3 model to create a highly accurate ML model, achieving a 90% detection accuracy for custom objects, enhancing the robot's navigation capabilities.
+</ul>
+
+**Autonomous Surveillance Drone** | Arizona State University, Tempe, AZ | Jan'19 - May'19
+<ul>
+- Developed and operationalized autonomous drone movement and landing using Aruco markers, ROS, OpenCV and Python.
+- Leveraged Neural Networks and Deep Learning Models for object detection and sending only the required frames of interest to the master node.
 </ul>
