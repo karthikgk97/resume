@@ -14,7 +14,9 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Install pandoc
-      run: sudo apt-get install pandoc
+      run: |
+      sudo apt-get update
+      sudo apt-get install pandoc texlive-latex-base
 
     - name: Convert Markdown to PDF
       run: pandoc --from=gfm --to=pdf -o resume_karthik_ganesan.pdf resume.md
