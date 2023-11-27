@@ -19,7 +19,7 @@ jobs:
         sudo apt-get install pandoc texlive-xetex
 
     - name: Convert Markdown to PDF
-      run: pandoc --from=gfm --to=pdf -o resume_karthik_ganesan.pdf resume.md
+      run: pandoc resume.md -o resume_karthik_ganesan.pdf 
 
     - name: Upload PDF as Artifact
       uses: actions/upload-artifact@v2
