@@ -1,0 +1,28 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  convert-to-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install pandoc
+      run: |
+        sudo apt-get -y update
+        sudo apt-get install pandoc texlive-xetex
+
+    - name: Convert Markdown to PDF
+      run: pandoc resume.md -o resume_karthik_ganesan.pdf -V urlcolor=blue
+
+    - name: Upload PDF as Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: resume
+        path: resume_karthik_ganesan.pdf
