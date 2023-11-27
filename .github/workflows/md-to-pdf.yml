@@ -17,4 +17,4 @@ jobs:
       run: sudo apt-get install pandoc
 
     - name: Convert Markdown to PDF
-      run: pandoc -s yourfile.md -o output.pdf
+      run: pandoc -s resume.md -o resume_karthik_ganesan.pdf
