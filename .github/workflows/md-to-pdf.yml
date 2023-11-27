@@ -20,3 +20,9 @@ jobs:
 
     - name: Convert Markdown to PDF
       run: pandoc --from=gfm --to=pdf -o resume_karthik_ganesan.pdf resume.md
+
+    - name: Upload PDF as Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: resume
+        path: resume_karthik_ganesan.pdf
