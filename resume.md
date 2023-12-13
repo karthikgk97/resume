@@ -4,7 +4,7 @@ header-includes:
   - \geometry{a4paper, total={170mm,257mm}, left=10mm, right=10mm, top=10mm, bottom=10mm}
   - \usepackage[scaled]{helvet}
   - \renewcommand*\familydefault{\sfdefault}
-  - \linespread{1.2}
+  - \linespread{1.1}
 ---
 
 ```{=latex}
