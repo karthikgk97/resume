@@ -1,9 +1,10 @@
 ---
 header-includes:
   - \usepackage{geometry}
-  - \geometry{a4paper, total={170mm,257mm}, left=20mm, top=20mm}
+  - \geometry{a4paper, total={170mm,257mm}, left=10mm, right=10mm, top=10mm, bottom=10mm}
   - \usepackage[scaled]{helvet}
   - \renewcommand*\familydefault{\sfdefault}
+  - \linespread{1.15}
 ---
 
 ```{=latex}
@@ -35,7 +36,7 @@ Motivated, cross-functional developer seeking full-time opportunity.
 **Developer** | Tyson Foods, Springdale, AR | Nov '21 - Present
 <ul>
 - Currently leading Tyson's LLM initiatives. Developed a Fast-API backend server for efficient data processing, and React frontend for chat interface for processing Structured and Unstructured data through Natural Language queries. Deployed the chatbot securely on GCP using CloudRun, Load Balancer, and IAP for authentication.
-- Developed an asynchronous Python library to facilitate the rapid prototyping of LLM applications across Tyson. The library efficiently reads and processes BigQuery data, enables the creation of embeddings, and stores them in VectorDB on GCP CloudRun for severless scalability. Additionally, mounted GCP Filestore for data robustness and high-speed I/O.
+- Developed an asynchronous Python library to facilitate the rapid prototyping of LLM applications across Tyson. The library efficiently reads and processes BigQuery data, enables embeddings creation, and stores them in VectorDB hosted on GCP CloudRun with GCP Filestore for severless scalability, data robustness and high-speed I/O.
 - Established a simulation-based workflow at Tyson using Nvidia Omniverse, ROS2, MoveIt2, AWS, and Reinforcement Learning. Conducted feasibility testing of digital twin and implemented RL in simulation.
 - Developed ML models with AWS Sagemaker evaluating synthetic image detection performance. Achieved a 50% reduction in training time through techniques like Transfer Learning Twice and Distributed Training, achieving an accuracy of approximately 70% across 5 classes, with a max class accuracy of 97%.
 - Architected and implemented a cloud-based pipeline for synthetic data generation. Leveraged AWS, Python, Blender, Docker, Terraform, and CI/CD for streamlined development.
