@@ -28,17 +28,17 @@ Motivated, cross-functional developer seeking full-time opportunity.
 
 ## Skills:
 **Programming**: Python, Rust, C++, SQL, Terraform, HTML, CSS, React, Bash, Matlab.  
-**Framework and Tools**: Langchain, Streamlit, Docker, Git, ROS, Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse  
+**Framework and Tools**: Langchain, FastAPI, Streamlit, Docker, Git, ROS, Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse  
 **Cloud Platforms**: GCP, AWS.  
 
 ## Experience:
 **Developer** | Tyson Foods, Springdale, AR | Nov '21 - Present
 <ul>
-- Currently leading Tyson's LLM initiatives, successfully developing a Streamlit-based chat interface for processing Structured and Unstructured data through Natural Language queries. Deployed the chatbot securely on GCP using CloudRun, Load Balancer, and IAP for authentication.
-- Developed an asynchronous Python library to facilitate the rapid prototyping of LLM applications across Tyson. This library efficiently reads and processes BigQuery data, enables the creation of embeddings, and stores them in ChromaDB/QdrantDB on GCP CloudRun. Additionally, leveraged mounted GCP Filestore for robustness and high-speed I/O.
+- Currently leading Tyson's LLM initiatives. Developed a Fast-API backend server for efficient data processing, and React frontend for chat interface for processing Structured and Unstructured data through Natural Language queries. Deployed the chatbot securely on GCP using CloudRun, Load Balancer, and IAP for authentication.
+- Developed an asynchronous Python library to facilitate the rapid prototyping of LLM applications across Tyson. The library efficiently reads and processes BigQuery data, enables the creation of embeddings, and stores them in VectorDB on GCP CloudRun for severless scalability. Additionally, mounted GCP Filestore for data robustness and high-speed I/O.
 - Established a simulation-based workflow at Tyson using Nvidia Omniverse, ROS2, MoveIt2, AWS, and Reinforcement Learning. Conducted feasibility testing of digital twin and implemented RL in simulation.
 - Developed ML models with AWS Sagemaker evaluating synthetic image detection performance. Achieved a 50% reduction in training time through techniques like Transfer Learning Twice and Distributed Training, achieving an accuracy of approximately 70% across 5 classes, with a max class accuracy of 97%.
-- Architected and developed a cloud-based pipeline for synthetic data generation. Leveraged AWS, Python, Blender, Docker, Terraform, and CI/CD for streamlined development.
+- Architected and implemented a cloud-based pipeline for synthetic data generation. Leveraged AWS, Python, Blender, Docker, Terraform, and CI/CD for streamlined development.
 </ul>
 
 **Software Application Engineer** | Duke University, Durham, NC | Jan’ 21 – Oct’ 21
