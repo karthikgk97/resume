@@ -33,7 +33,7 @@ Motivated, cross-functional developer seeking full-time opportunity.
 **Cloud Platforms**: GCP, AWS.  
 
 ## Experience:
-**Developer** | Tyson Foods, Springdale, AR | Nov '21 - Present
+**Senior Developer** | Tyson Foods, Springdale, AR | Nov '21 - Present
 <ul>
 - Currently leading Tyson's LLM initiatives. Developed a Fast-API backend server for efficient data processing, and React frontend for chat interface for processing Structured and Unstructured data through Natural Language queries. Deployed the chatbot securely on GCP using CloudRun, Load Balancer, and IAP for authentication.
 - Developed an asynchronous Python library to facilitate the rapid prototyping of LLM applications across Tyson. The library efficiently reads and processes BigQuery data, enables embeddings creation, and stores them in VectorDB hosted on GCP CloudRun with GCP Filestore for severless scalability, data robustness and high-speed I/O.
