@@ -33,13 +33,17 @@ Motivated, cross-functional developer seeking full-time opportunity.
 **Cloud Platforms**: GCP, AWS.  
 
 ## Experience:
-**Senior Developer** | Tyson Foods, Springdale, AR | Nov '21 - Present
+**Senior Developer** | Tyson Foods, Springdale, AR | Nov '23 - Present
 <ul>
-- Currently leading Tyson's LLM initiatives. Developed a Fast-API backend server for efficient data processing, and React frontend for chat interface for processing Structured and Unstructured data through Natural Language queries. Deployed the chatbot securely on GCP using CloudRun, Load Balancer, and IAP for authentication.
-- Developed an asynchronous Python library to facilitate the rapid prototyping of LLM applications across Tyson. The library efficiently reads and processes BigQuery data, enables embeddings creation, and stores them in VectorDB hosted on GCP CloudRun with GCP Filestore for severless scalability, data robustness and high-speed I/O.
+- Leading Tyson's Generative AI initiative. Led the development of a Fast-API backend, assisted with the React frontend, for processing structured and unstructured data through Natural Language queries. Successfully deployed the secure chatbot on Google Cloud Platform (GCP) using CloudRun, Load Balancer, and Identity-Aware Proxy (IAP).
+- Developed a versatile Python library with a RESTful API server, specializing in agent construction, RAG techniques, Keyword Search, and large language model handling. Actively maintaining and evolving this library to ensure its continuous use in Tyson's LLM applications.
+</ul>
+**Developer** | Tyson Foods, Springdale, AR | Nov '21 - Nov '23
+<ul>
+- Designed and developed an LLM application utilizing streamlit that interprets natural language queries against structured data, providing real-time visualizations and persistent chat history. This solution streamlines user interaction with PowerBI reports, reducing associated time by over 70%.
 - Established a simulation-based workflow at Tyson using Nvidia Omniverse, ROS2, MoveIt2, AWS, and Reinforcement Learning. Conducted feasibility testing of digital twin and implemented RL in simulation.
 - Developed ML models with AWS Sagemaker evaluating synthetic image detection performance. Achieved a 50% reduction in training time through techniques like Transfer Learning Twice and Distributed Training, achieving an accuracy of approximately 70% across 5 classes, with a max class accuracy of 97%.
-- Architected and implemented a cloud-based pipeline for synthetic data generation. Leveraged AWS, Python, Blender, Docker, Terraform, and CI/CD for streamlined development.
+- Architected and implemented a cloud-based pipeline for synthetic data generation. Leveraged AWS, Python, Blender, Docker, Terraform, and CI/CD for streamlined development, enabling faster iteration.
 </ul>
 
 **Software Application Engineer** | Duke University, Durham, NC | Jan’ 21 – Oct’ 21
@@ -55,10 +59,4 @@ Motivated, cross-functional developer seeking full-time opportunity.
 - Engineered an autonomous vehicular robot and its middleware using ROS and C++ for real-world operation.
 - Integrated the robot into Gazebo simulation environment using URDF, concurrently developing a user-friendly GUI with Qt Designer and Python to access camera sensor data.
 - Applied YOLOv3 model to create a highly accurate ML model, achieving a 90% detection accuracy for custom objects, enhancing the robot's navigation capabilities.
-</ul>
-
-**Autonomous Surveillance Drone** | Arizona State University, Tempe, AZ | Jan'19 - May'19
-<ul>
-- Developed and operationalized autonomous drone movement and landing using Aruco markers, ROS, OpenCV and Python.
-- Leveraged Neural Networks and Deep Learning Models for object detection and sending only the required frames of interest to the master node.
 </ul>
