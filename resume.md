@@ -28,22 +28,24 @@ Motivated, cross-functional developer seeking full-time opportunity.
 <i>Anna University, India  </i> \hfill <i> GPA: 8.03 / 10 </i> </span>
 
 ## Skills:
-**Programming**: Python, Rust, C++, SQL, Terraform, HTML, CSS, React, Bash, Matlab.  
+**Programming**: Python, Go, Rust, C++, SQL, Terraform, HTML, CSS, React, Bash, Matlab.
 **Framework and Tools**: Langchain, FastAPI, Streamlit, Docker, Git, ROS, Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse  
-**Cloud Platforms**: GCP, AWS.  
+**Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS).
 
 ## Experience:
 **Senior Developer** | Tyson Foods, Springdale, AR | Nov '23 - Present
 <ul>
-- Leading Tyson's Generative AI initiative. Led the development of a Fast-API backend, assisted with the React frontend, for processing structured and unstructured data through Natural Language queries. Successfully deployed the secure chatbot on Google Cloud Platform (GCP) using CloudRun, Load Balancer, and Identity-Aware Proxy (IAP).
-- Developed a versatile Python library with a RESTful API server, specializing in agent construction, RAG techniques, Keyword Search, and large language model handling. Actively maintaining and evolving this library to ensure its continuous use in Tyson's LLM applications.
+- Leading Tyson's Generative AI initiatives and development of an in-house chatbot powered by LLM. Built a FastAPI backend and assisted with the React frontend enabling natural language queries on Tyson Data. Deployed the chatbot securely and scalably on GCP using CloudRun, Load Balancer, and Identity-Aware Proxy (IAP).
+- Developed and maintain versatile Python library with RESTful API server for agent construction, RAG techniques, keyword & semantic search, and LLM handling, driving Tyson's LLM applications.
+- Implemented video rendering and custom file/image upload support in React frontend, integrating with backend server for advanced chunking, hybrid search-based retrieval in RAG applications and LLM interaction.
 </ul>
+
 **Developer** | Tyson Foods, Springdale, AR | Nov '21 - Nov '23
 <ul>
-- Designed and developed an LLM application utilizing streamlit that interprets natural language queries against structured data, providing real-time visualizations and persistent chat history. This solution streamlines user interaction with PowerBI reports, reducing associated time by over 70%.
-- Established a simulation-based workflow at Tyson using Nvidia Omniverse, ROS2, MoveIt2, AWS, and Reinforcement Learning. Conducted feasibility testing of digital twin and implemented RL in simulation.
-- Developed ML models with AWS Sagemaker evaluating synthetic image detection performance. Achieved a 50% reduction in training time through techniques like Transfer Learning Twice and Distributed Training, achieving an accuracy of approximately 70% across 5 classes, with a max class accuracy of 97%.
-- Architected and implemented a cloud-based pipeline for synthetic data generation. Leveraged AWS, Python, Blender, Docker, Terraform, and CI/CD for streamlined development, enabling faster iteration.
+- Engineered an LLM application using Prompt Engineering and RAG approach through Hybrid Search (Semantic + Keyword) for natural language querying of structured data, providing real-time visualizations and persistent chat history, reducing PowerBI report interaction time by 70%
+- Implemented simulation-based workflow using Nvidia Omniverse, ROS2, MoveIt2, AWS, and Reinforcement Learning for digital twin feasibility testing
+- Developed ML models on AWS Sagemaker for synthetic image detection, achieving 70% accuracy across 5 classes (97% max class accuracy) while reducing training time by 50% through Transfer Learning Twice and Distributed Training
+- Architected cloud-based pipeline for synthetic data generation using AWS, Python, Blender, Docker, and Terraform, implementing CI/CD for accelerated streamlined development cycles
 </ul>
 
 **Software Application Engineer** | Duke University, Durham, NC | Jan’ 21 – Oct’ 21
