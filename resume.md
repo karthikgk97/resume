@@ -28,8 +28,8 @@ Motivated, cross-functional developer seeking full-time opportunity.
 <i>Anna University, India  </i> \hfill <i> GPA: 8.03 / 10 </i> </span>
 
 ## Skills:
-**Programming**: Python, Go, Rust, C++, SQL, Terraform, HTML, CSS, React, Bash, Matlab.
-**Framework and Tools**: Langchain, FastAPI, Streamlit, Docker, Git, ROS, Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse  
+**Programming**: Python, Go, Java, C++, Rust, SQL, Terraform, HTML, CSS, Javascript, Bash, Matlab.  
+**Framework and Tools**: Langchain, FastAPI, React, Streamlit, Docker, Git, Robot Operating System (ROS), Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse  
 **Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS).
 
 ## Experience:
