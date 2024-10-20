@@ -11,6 +11,7 @@ header-includes:
 \begin{center}
 ```
 # KARTHIK GANESAN
+\vspace{-0.1cm}
 Motivated, cross-functional developer seeking full-time opportunity.   
   [LinkedIn](https://www.linkedin.com/in/karthik-ganesan-541488148/) |
   [Personal Website](https://www.karthikganesan.dev) |
@@ -20,24 +21,30 @@ Motivated, cross-functional developer seeking full-time opportunity.
 ```{=latex}
 \end{center}
 ```
-
 ## Education:
+\vspace{-0.2cm}
 **Master of Science** \hfill <i> Aug' 18 – May' 20 </i> </span>  
 <i>Arizona State University, USA </i> \hfill <i> GPA: 3.96 / 4 </i> </span>  
 **Bachelor of Engineering** \hfill <i> Aug’ 14 – May’ 18 </i> </span>  
 <i>Anna University, India  </i> \hfill <i> GPA: 8.03 / 10 </i> </span>
 
+\vspace{-0.4cm}
 ## Skills:
-**Programming**: Python, Java, C++, Go, SQL, Terraform, HTML, CSS, JavaScript, Bash, Matlab.
-**Framework and Tools**: Langchain, FastAPI, React, Docker, Git, Robot Operating System (ROS), Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse.
-**Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS).
-**Other Technologies**: RESTful APIs, CI/CD, Agile, Distributed Systems
+\vspace{-0.2cm}
+<ul>
+- **Programming**: Python, Java, Javascript, HTML, CSS, SQL, C++, Go, SQL, Terraform, Bash, Matlab.
+- **Framework and Tools**: Langchain, FastAPI, React, Docker, Git, Express.js, Robot Operating System (ROS), Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse.
+- **Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS).
+- **Other Technologies**: RESTful APIs, CI/CD, Agile, Distributed Systems
 
+
+\vspace{-0.4cm}
 ## Experience:
+\vspace{-0.2cm}
 **Senior Developer** | Tyson Foods, Springdale, AR | Nov '23 - Present
 <ul>
-- Led the development of a scalable, internal cloud-based application using Python, FastAPI, Node.js, and React, empowering business users with natural language data querying and visualization capabilities. 
-- Designed and implemented a high-availability, cloud-native infrastructure on GCP using Terraform, incorporating Cloud Run, Google Container Registry (GCR), Identity-Aware Proxy (IAP), Secrets Manager, and Firestore for a secure and scalable solution.
+- Led the development of a scalable, cloud-based chatbot platform using Python, Node.js, and React, enabling over 30,000 business and plant users at Tyson Foods to streamline data access and analysis, identify trends, analyze plant line performance, and access critical business data.
+- Implemented a microservice-based architecture on GCP using Terraform, Cloud Run, GCR, IAP, Cloud Storage, Secrets Manager, VPC and Firestore to ensure high availability and security.
 - Developed a modular Python library with RESTful APIs for data processing, semantic search, and LLM integrations, enhancing code reusability and accelerating development cycles.
 - Enhanced the React frontend of the internal application to support custom file uploads, enabling advanced data analysis on user-provided files (e.g., Excel spreadsheets). Implemented video rendering functionality for transcoded videos using a custom Bash transcoding script integrated with GitLab CI/CD, automating the preprocessing pipeline for on-demand video processing.
 </ul>
