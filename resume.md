@@ -28,15 +28,16 @@ Motivated, cross-functional developer seeking full-time opportunity.
 <i>Anna University, India  </i> \hfill <i> GPA: 8.03 / 10 </i> </span>
 
 ## Skills:
-**Programming**: Python, Go, Java, C++, Rust, SQL, Terraform, HTML, CSS, JavaScript, Bash, Matlab.  
-**Framework and Tools**: Langchain, FastAPI, React, Docker, Git, Robot Operating System (ROS), Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse  
+**Programming**: Python, Java, C++, Go, SQL, Terraform, HTML, CSS, JavaScript, Bash, Matlab.
+**Framework and Tools**: Langchain, FastAPI, React, Docker, Git, Robot Operating System (ROS), Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse.
 **Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS).
+**Other Technologies**: RESTful APIs, CI/CD, Agile, Distributed Systems
 
 ## Experience:
 **Senior Developer** | Tyson Foods, Springdale, AR | Nov '23 - Present
 <ul>
 - Led the development of a scalable, internal cloud-based application using Python, FastAPI, Node.js, and React, empowering business users with natural language data querying and visualization capabilities. 
-- Designed and implemented a high-availability architecture on GCP, ensuring robust security measures and optimal performance.
+- Designed and implemented a high-availability, cloud-native infrastructure on GCP using Terraform, incorporating Cloud Run, Google Container Registry (GCR), Identity-Aware Proxy (IAP), Secrets Manager, and Firestore for a secure and scalable solution.
 - Developed a modular Python library with RESTful APIs for data processing, semantic search, and LLM integrations, enhancing code reusability and accelerating development cycles.
 - Enhanced the React frontend of the internal application to support custom file uploads, enabling advanced data analysis on user-provided files (e.g., Excel spreadsheets). Implemented video rendering functionality for transcoded videos using a custom Bash transcoding script integrated with GitLab CI/CD, automating the preprocessing pipeline for on-demand video processing.
 </ul>
@@ -46,7 +47,7 @@ Motivated, cross-functional developer seeking full-time opportunity.
 - Engineered an innovative data querying and visualization application, combining Semantic and Keyword search with LLM interaction to interpret natural language queries, resulting in a 70% reduction in user interaction time with PowerBI reports.
 - Designed and deployed a simulation-based workflow for digital twin feasibility testing using a combination of Nvidia Omniverse, ROS2, MoveIt2, and AWS Cloud services.
 - Developed and deployed ML models on AWS Sagemaker for synthetic image classification, achieving a 97% accuracy for the best-performing class and reducing training time by 50% through Transfer Learning Twice and Distributed Training techniques.
-- Architected a cloud-based pipeline for synthetic data generation using AWS, Python, Blender, Docker, and Terraform, implementing CI/CD for accelerated streamlined development cycles.
+- Architected a cloud-based pipeline for synthetic data generation using AWS (Batch, ECR, Lambda), Python, Blender, Docker, and Terraform, implementing CI/CD for accelerated streamlined development cycles.
 </ul>
 
 **Software Application Engineer** | Duke University, Durham, NC | Jan’ 21 – Oct’ 21
