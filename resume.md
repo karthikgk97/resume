@@ -54,7 +54,7 @@ Motivated, cross-functional developer seeking full-time opportunity.
 - Engineered an innovative data querying and visualization application, combining Semantic and Keyword search with LLM interaction to interpret natural language queries, resulting in a 70% reduction in user interaction time with PowerBI reports.
 - Designed and deployed a simulation-based workflow for digital twin feasibility testing using a combination of Nvidia Omniverse, ROS2, MoveIt2, and AWS Cloud services.
 - Developed and deployed ML models on AWS Sagemaker for synthetic image classification, achieving a 97% accuracy for the best-performing class and reducing training time by 50% through Transfer Learning Twice and Distributed Training techniques.
-- Architected a cloud-based pipeline for synthetic data generation using AWS (Batch, ECR, Lambda), Python, Blender, Docker, and Terraform, implementing CI/CD for accelerated streamlined development cycles.
+- Architected a cloud-based pipeline for synthetic data generation using AWS (Batch, ECR, Lambda, S3), Python, Blender, Docker, and Terraform, implementing CI/CD for accelerated streamlined development cycles.
 </ul>
 
 **Software Application Engineer** | Duke University, Durham, NC | Jan’ 21 – Oct’ 21
