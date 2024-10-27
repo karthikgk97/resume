@@ -32,7 +32,7 @@ Motivated, cross-functional developer seeking full-time opportunity.
 ## Skills:
 \vspace{-0.2cm}
 <ul>
-- **Programming**: Python, Java, Javascript, HTML, CSS, SQL, C++, Go, SQL, Terraform, Bash, Matlab.
+- **Programming**: Python, Java, Javascript, Typescript, HTML, CSS, SQL, C++, Go, SQL, Terraform, Bash, Matlab.
 - **Framework and Tools**: Langchain, FastAPI, React, Docker, Git, Express.js, Robot Operating System (ROS), Blender, OpenCV, Qt Designer, Selenium, Nvidia Omniverse.
 - **Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS).
 - **Other Technologies**: RESTful APIs, CI/CD, Agile, Distributed Systems
@@ -46,7 +46,7 @@ Motivated, cross-functional developer seeking full-time opportunity.
 - Led the development of a scalable, cloud-based chatbot platform using Python, Node.js, and React, enabling over 30,000 business and plant users at Tyson Foods to streamline data access and analysis, identify trends, analyze plant line performance, and access critical business data.
 - Implemented a microservice-based architecture on GCP using Terraform, Cloud Run, GCR, IAP, Cloud Storage, Secrets Manager, VPC and Firestore to ensure high availability and security.
 - Developed a modular Python library with RESTful APIs for data processing, semantic search, and LLM integrations, enhancing code reusability and accelerating development cycles.
-- Enhanced the React frontend of the internal application to support custom file uploads, enabling advanced data analysis on user-provided files (e.g., Excel spreadsheets). Implemented video rendering functionality for transcoded videos using a custom Bash transcoding script integrated with GitLab CI/CD, automating the preprocessing pipeline for on-demand video processing.
+- Enhanced the React frontend of the internal application to support custom file uploads, enabling advanced data analysis on user-provided files. Implemented video rendering functionality for transcoded videos using a custom Bash transcoding script integrated with GitLab CI/CD, automating the preprocessing pipeline for on-demand video processing.
 </ul>
 
 **Developer** | Tyson Foods, Springdale, AR | Nov '21 - Nov '23
